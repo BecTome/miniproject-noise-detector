@@ -1,4 +1,4 @@
-# Noisy Data Detector
+# Subsequence Detector
 
 The model/workflow takes two 1D sequences X1 and X2 as input. Here, `X1` will be a
 continuous sequence. Note that `X2` will be a subset of `X1` with some noise and difference in sampling rate.
